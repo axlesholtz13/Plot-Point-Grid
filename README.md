@@ -4,6 +4,9 @@ Creates point grid shapefile for a polygon area of interest.
 
 Original use: to create 200 plot points on a map for soil disturbance surverys.
 
+
+
+
 PROMPT FOR PYTHON CODE CREATION:
 
 Can you write a Python script using ArcPy to be used in Arc Pro Notebook that creates a grid of evenly spaced points within a polygon feature class? The script should:
